@@ -23,7 +23,7 @@
           "background": "#3B4252",
           "foreground": "#ffffff",
           "powerline_symbol": "\ue0b0",
-          "template": " \ue718 {{ if .PackageManagerIcon }}{{ .PackageManagerIcon }} {{ end }}{{ .Major }}{{ .Minor }} ",
+          "template": " \ue718 {{ if .PackageManagerIcon }}{{ .PackageManagerIcon }} {{ end }}{{ .Major }} {{ .Minor }} ",
           "properties": {
             "fetch_version": true
           }
