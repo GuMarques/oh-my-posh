@@ -25,7 +25,7 @@
             "cache_duration": "none",
             "fetch_version": true
           },
-          "template": " \ued0d {{ if .PackageManagerIcon }}{{ .PackageManagerIcon }} {{ end }}{{ .Major }}.{{ .Minor }}",
+          "template": " \ued0d {{ if .PackageManagerIcon }}{{ .PackageManagerIcon }} {{ end }}{{ .Major }}.{{ .Minor }} ",
           "foreground": "#FFFF00",
           "powerline_symbol": "\ue0b0",
           "background": "#3B4252",
