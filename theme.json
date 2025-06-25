@@ -26,7 +26,7 @@
             "fetch_version": true
           },
           "template": " \ued0d {{ if .PackageManagerIcon }}{{ .PackageManagerIcon }} {{ end }}{{ .Major }}.{{ .Minor }} ",
-          "foreground": "#FFFF00",
+          "foreground": "#ffffff",
           "powerline_symbol": "\ue0b0",
           "background": "#3B4252",
           "type": "node",
